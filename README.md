@@ -66,3 +66,9 @@ Packages Used:
     Connect to backend / database services like Supabase or Firebase for cloud sync.
     Add dark mode theme support.
     Export transactions to CSV or PDF reports.
+
+Screenshots:
+<img width="367" height="797" alt="Image" src="https://github.com/user-attachments/assets/9462ea2b-3624-4487-8f71-e64ea125a71c" />
+<img width="366" height="795" alt="Image" src="https://github.com/user-attachments/assets/7731cf8d-acb9-4a31-b504-c9ec77c98e8b" />
+<img width="367" height="795" alt="Image" src="https://github.com/user-attachments/assets/3975a1d6-cd50-4bc7-a04e-19a5e5e1a805" />
+<img width="362" height="797" alt="Image" src="https://github.com/user-attachments/assets/81051c97-2377-46be-b258-8a4530782c0b" />
